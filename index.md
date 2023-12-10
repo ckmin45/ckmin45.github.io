@@ -6,7 +6,7 @@ description: "Collection of personal notes/guides on computational structural an
 permalink: /
 ---
 
-# 
+# Methods in Computational Chemistry & Structural Biology
 {: .fs-9 }
 
 Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
