@@ -9,6 +9,11 @@ aux_links:
 
 nav_enabled: true
 
+callouts: 
+  note:
+    title: Note
+    color: purple
+
 search_enabled: true
 
 search:
