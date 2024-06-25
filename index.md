@@ -2,7 +2,7 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Molecular Dyanamics Simulation: Notes and Protocols"
+description: "Molecular Dyanamics Simulation - Notes and Protocols"
 permalink: /
 ---
 
