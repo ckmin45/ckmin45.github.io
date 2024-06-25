@@ -2,14 +2,14 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Collection of personal notes/guides on computational structural and chemistry tools."
+description: "Molecular Dyanamics Simulation: Notes and Protocols"
 permalink: /
 ---
 
-# Methods in Computational Chemistry & Structural Biology
+# 
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Personal notes and protocols used for MD studies. 
 {: .fs-6 .fw-300 }
 
 [Get started now][README]{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
@@ -20,9 +20,7 @@ Just the Docs gives your documentation a jumpstart with a responsive Jekyll them
 {: .warning }
 > Be sure to check specific software and package versions as certain commands and syntax are version-dependent. Seefor a list of versions used.
 
-
-
-[^1]: Versions used: Python3.10.13, R 4.2.3.
+[^1]: Versions used: Python3.10.13, R 4.2.3., Amber/20
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
