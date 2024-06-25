@@ -2,11 +2,11 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Molecular Dyanamics Simulation - Notes and Protocols"
+description: "Molecular Dyanamics Simulation Notes and Protocols"
 permalink: /
 ---
 
-# 
+Molecular Dyanamics Simulation Notes and Protocols
 {: .fs-9 }
 
 Personal notes and protocols used for MD studies. 
