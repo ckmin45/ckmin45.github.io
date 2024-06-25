@@ -9,7 +9,7 @@ System minimization is often the first step in a molecular dynamics simulation. 
 
 The following is a sample input file for minimization: 
 
-'''
+```
 Minimization step 1 (setup)
  &cntrl
   imin=1,
@@ -27,7 +27,7 @@ Minimization step 1 (setup)
   restraintmask=":1-261",
   restraint_wt=50.0,
  &end
-'''
+```
 
 The &cntrl section is a namelist in Amber used to denote the settings and parameters used for the simulation and the &end keyword signifies the end of the section. 
 
